@@ -1,7 +1,7 @@
 <div class="col-sm-12">
                 <div class="card">
                   <div class="card-header pb-0 card-no-border">
-                    <h4 class="mb-3">Course information <span style="float:right;"><button class="btn btn-primary" type="button"> Create New </button></span></h4>
+                    <h4 class="mb-3">Course information <span style="float:right;"><button class="btn btn-primary" type="button" onclick="courseCreateBtn();"> Create New </button></span></h4>
                   </div>
                   <div class="card-body">
                     <div class="dt-ext table-responsive theme-scrollbar">
@@ -63,3 +63,7 @@
                   </div>
                 </div>
               </div>
+              <script type="text/javascript">
+                   function courseCreateBtn(){
+                   }
+              </script>

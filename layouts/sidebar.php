@@ -49,6 +49,7 @@
                         <use href="assets/svg/icon-sprite.svg#fill-learning"></use>
                       </svg><span>Course information</span></a>
                     <ul class="sidebar-submenu">
+                    <li><a href="./?p=course-information">Course Information</a></li>
                       <li><a href="./?p=course-list">Course List</a></li>
                       <li><a href="course-detailed.html">Course Details</a></li>
                     </ul>
